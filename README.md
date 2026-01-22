@@ -9,4 +9,4 @@ Use .view(), .reshape(), .unsqueeze(), and .squeeze() in PyTorch. Compare with .
 Broadcasting- Perform operations with tensors of different shapes.
 In-place vs Out-of-place operations
 --------------------------------------------
-Experiment 2 : Neural Network from Scratch using Numpy on MNIST dataset
+**Experiment 2 : Neural Network from Scratch using Numpy on MNIST dataset**
