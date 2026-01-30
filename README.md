@@ -11,3 +11,6 @@ In-place vs Out-of-place operations**
 **
 
 **Experiment 2 : Neural Network from Scratch using Numpy on MNIST dataset**
+
+**Experiment-3: 1.perceptron for linearly separable data.
+2. MLP for non-linearly separable data**
