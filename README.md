@@ -24,11 +24,19 @@ configurations by experimenting with:
 Additionally, you will compare your best CNN model for both datasets with a pretrained
 ResNet-18 model.**
 
-****Experiment-5: The aim of this experiment is to explore text generation using Recurrent Neural
+**Experiment-5: The aim of this experiment is to explore text generation using Recurrent Neural
 Networks (RNNs) and to understand the impact of different word representations:
 1. One-Hot Encoding
 2. Trainable Word Embeddings
 As part of the experiment, a basic RNN is first implemented from scratch
 using NumPy to understand its internal workings. The RNN model is then trained
 using PyTorch on a dataset of 100 poems, and the performance of both encoding
-techniques is compared.****
+techniques is compared.**
+
+**The goal of this assignment is to implement a sequence-to-sequence (seq2seq) model for machine
+translation from English to Spanish. You will explore two architectures:
+1. LSTM Encoder-Decoder without Attention
+2. LSTM Encoder-Decoder with Attention
+• Bahdanau (Additive) Attention
+• Luong (Multiplicative) Attention
+You will evaluate the performance of each model on a English-Spanish dataset.**
