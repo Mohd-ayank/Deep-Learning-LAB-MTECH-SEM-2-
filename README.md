@@ -33,7 +33,7 @@ using NumPy to understand its internal workings. The RNN model is then trained
 using PyTorch on a dataset of 100 poems, and the performance of both encoding
 techniques is compared.
 
-The goal of this assignment is to implement a sequence-to-sequence (seq2seq) model for machine
+Experiment-6: The goal of this assignment is to implement a sequence-to-sequence (seq2seq) model for machine
 translation from English to Spanish. You will explore two architectures:
 1. LSTM Encoder-Decoder without Attention
 2. LSTM Encoder-Decoder with Attention
